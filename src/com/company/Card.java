@@ -1,5 +1,7 @@
 package com.company;
 
+/*This is commited to Github*/
+
 import java.util.Objects;
 
 public class Card {
